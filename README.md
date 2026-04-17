@@ -39,5 +39,7 @@ Planilha PIB dos municípios do estado de SP – 2021
 [pib-municipios-2021_site.-.luizgustavo.xlsx](https://github.com/user-attachments/files/26796977/pib-municipios-2021_site.-.luizgustavo.xlsx)
 <img width="1021" height="864" alt="Captura de tela 2026-04-16 153311" src="https://github.com/user-attachments/assets/74973750-d5c2-4860-96a4-00e145df8d1d" />
 
+Finalização do curso https://aprendamais.mec.gov.br/mod/url/view.php?id=132198 
+<img width="1909" height="864" alt="Captura de tela 2026-04-17 090327" src="https://github.com/user-attachments/assets/9c7ed220-ab5d-4dd0-8ff7-3628ef3b041c" />
 
 
