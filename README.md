@@ -33,6 +33,8 @@ Planilha de multas pagas do mês de março de 2026
 <img width="468" height="302" alt="Captura de tela 2026-04-16 153123" src="https://github.com/user-attachments/assets/539a7f7a-8b0e-48e4-97d9-8430ebaa7e66" />
 <img width="543" height="398" alt="Captura de tela 2026-04-16 153143" src="https://github.com/user-attachments/assets/d22d6bac-b228-4596-aaf6-d7b80b59da36" />
 <img width="1704" height="865" alt="Captura de tela 2026-04-16 153206" src="https://github.com/user-attachments/assets/11dc58bf-8b29-48ca-9a13-be45c830725d" />
+<img width="1360" height="312" alt="Captura de tela 2026-04-16 220138" src="https://github.com/user-attachments/assets/ab023935-56a5-49af-8baa-dcb4b8fbcc36" />
+
 
 # Atividade de Informática - Excel  
 Planilha PIB dos municípios do estado de SP – 2021  
@@ -40,5 +42,6 @@ Planilha PIB dos municípios do estado de SP – 2021
 [pib-municipios-2021_site.-.luizgustavo.xlsx](https://github.com/user-attachments/files/26796977/pib-municipios-2021_site.-.luizgustavo.xlsx)
 <img width="1288" height="201" alt="Captura de tela 2026-04-16 153404" src="https://github.com/user-attachments/assets/c264844a-441c-4b03-9750-2e4d876ced3b" />
 <img width="1021" height="864" alt="Captura de tela 2026-04-16 153311" src="https://github.com/user-attachments/assets/74973750-d5c2-4860-96a4-00e145df8d1d" />
+
 
 
