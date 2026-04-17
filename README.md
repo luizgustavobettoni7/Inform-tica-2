@@ -30,11 +30,8 @@ Planilha de cadastro de fornecedores
 # Atividade de Informática - Excel  
 Planilha de multas pagas do mês de março de 2026  
 [multas_pagas.-.luizgustavo.xlsx](https://github.com/user-attachments/files/26796940/multas_pagas.-.luizgustavo.xlsx)
-<img width="468" height="302" alt="Captura de tela 2026-04-16 153123" src="https://github.com/user-attachments/assets/539a7f7a-8b0e-48e4-97d9-8430ebaa7e66" />
-<img width="543" height="398" alt="Captura de tela 2026-04-16 153143" src="https://github.com/user-attachments/assets/d22d6bac-b228-4596-aaf6-d7b80b59da36" />
-<img width="1704" height="865" alt="Captura de tela 2026-04-16 153206" src="https://github.com/user-attachments/assets/11dc58bf-8b29-48ca-9a13-be45c830725d" />
-<img width="1360" height="312" alt="Captura de tela 2026-04-16 220138" src="https://github.com/user-attachments/assets/ab023935-56a5-49af-8baa-dcb4b8fbcc36" />
-
+<img width="1697" height="803" alt="Captura de tela 2026-04-16 222043" src="https://github.com/user-attachments/assets/28df1759-a0da-4087-b876-ef67133ef43f" />
+<img width="1331" height="304" alt="Captura de tela 2026-04-16 222010" src="https://github.com/user-attachments/assets/735ff005-297a-4fab-8637-e59309bfded4" />
 
 # Atividade de Informática - Excel  
 Planilha PIB dos municípios do estado de SP – 2021  
